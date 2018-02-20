@@ -86,3 +86,9 @@ Session.vim
 .netrwhist
 *~
 
+## shoke no kagami
+samples*/
+samples/
+data/celeb*
+data/mnist
+checkpoint/*
